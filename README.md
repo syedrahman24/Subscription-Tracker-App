@@ -2,10 +2,15 @@
 
 A modern, feature-rich React application for managing and tracking your digital subscriptions with real-time analytics, renewal alerts, and beautiful dark/light themes.
 
-![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react)
-![Firebase](https://img.shields.io/badge/Firebase-10.7.0-orange?logo=firebase)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.0-blue?logo=tailwindcss)
-![License](https://img.shields.io/badge/License-MIT-green)
+| ![Image1](https://github.com/user-attachments/assets/c80ad981-a666-4a22-8336-116396360d29) | ![Image2](https://github.com/user-attachments/assets/de937b08-ca07-4b06-9219-68e1e7aea083) |
+|:--------------------------------------------------------:|:--------------------------------------------------------:|
+
+| ![Image1](https://github.com/user-attachments/assets/f716d9c3-1555-4d58-8b15-636561ac3ae9) | ![Image2](https://github.com/user-attachments/assets/87171c9a-a1a1-421c-b357-097de4b26c12) |
+|:--------------------------------------------------------:|:--------------------------------------------------------:|
+
+| ![Image1](https://github.com/user-attachments/assets/b4fcbeea-deb3-4d84-acc1-8567deebf611) | 
+|:--------------------------------------------------------:|
+
 
 ## ✨ Features
 
